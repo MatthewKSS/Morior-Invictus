@@ -18,7 +18,7 @@ Please submit issues through our Issues page on Github.
 \
 \
 \
-Current Mod List:
+Current Mod List:\
 \
 abnormals_core\
 AI-Improvements\
