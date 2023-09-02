@@ -182,3 +182,13 @@ YungsApi\
 YungsBridges-Forge\
 YungsExtras-Forge\
 zombieawareness\
+\
+\
+\
+Changelog:\
+\
+Alpha 1.0 - Release 1.0\
+The main change from the Alpha was edited configs and added quests.\
+\
+Release 1.0 - Release 1.1\
+Quests were not correctly exported during the inital export.  Quests have been added back along with some WorldGen updates and smooth Config Edits.
