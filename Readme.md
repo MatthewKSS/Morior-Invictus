@@ -183,6 +183,8 @@ YungsApi\
 YungsBridges-Forge\
 YungsExtras-Forge\
 zombieawareness\
+Astral\
+Astral Sorcery\
 \
 \
 \
@@ -193,3 +195,6 @@ The main change from the Alpha was edited configs and added quests.\
 \
 Release 1.0 - Release 1.1\
 Quests were not correctly exported during the inital export.  Quests have been added back along with some WorldGen updates and smooth Config Edits.
+\
+Beta 1.2\
+Changes with quests to remove duplicates and invalid quests regarding progression.  Other changes as well.
