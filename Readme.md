@@ -201,3 +201,18 @@ Quests were not correctly exported during the inital export.  Quests have been a
 \
 Beta 1.2\
 Changes with quests to remove duplicates and invalid quests regarding progression.  Other changes as well.
+\
+Release 1.2\
+MAJOR RELEASE CHANGES\
+    Metal Rod crafting recipes were removed to incentivize usage of Tinkers Construct smeltery\
+    Custom steel plate recipe with Create removed for Tinkers Construct smeltery usage\
+    Fixed Explosion-proof jacket being the only relic spawning in chest\
+---Mod updates---\
+    Corial Tombstone updates\
+    CraftTweaker updated\
+---Removed/Added---\
+    Removed Weirding Gadget (cause singleplayer bugs)\
+    Added Chunkloaders (replacement for WG, recipes coming soon\
+    Removed Rubidium and Magnesium Extras and added Embeddium instead\
+    Removed refinery controller quest in the Pneumaticraft tab to encourage usage of the Distillation tower from IE\
+
