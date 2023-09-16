@@ -1,16 +1,13 @@
-***WE ARE AWARE OF SOME SERVERSIDE ISSUES AND ARE WORKING THROUGH IT.  A FEW MODS WILL BE UPDATED ONCE THE MOD AUTHORS RELEASE THE NEW VERSION***\
-\
-\
 This is the location of the tickets for the Morior-Invictus pack that was created by my friends and I.  
 If you have any issues, let us know here.\
 \
 This pack is intended to to be an amalgamation of many different mods meant to give a challenge and linear progression while allowing you to explore many different mods.\
 \
-Release 1.2.5 has been added under Morrior Invictus1.2.5.Zip.\
+Release 1.3 has been added under Morrior Invictus-1.3.Zip.\
 Instructions: Download this file and import it into Curseforge.  The pack is also available through Curseforge via this link: https://legacy.curseforge.com/minecraft/modpacks/morrior-invictus\
 \
 \
-This pack is being updated on a regular schedule.  Release 1.2.5 is out!  Download to check it out.  It's available here, and on Curseforge.\
+This pack is being updated on a regular schedule.  Release 1.3 is out!  Download to check it out.  It's available here, and on Curseforge.\
 \
 \
 \
@@ -19,175 +16,6 @@ Adventure, Tech, Magic and more!  This pack is a complex and difficult pack that
 \
 \
 Please submit issues through the issues section on this github repo.
-\
-\
-\
-Current Mod List:\
-\
-abnormals_core\
-AI-Improvements\
-alexsmobs\
-antiqueatlas\
-Aquaculture\
-aquamirae\
-architectury\
-atmospheric\
-AttributeFix\
-AutoRegLib\
-BetterDungeons\
-BetterMineshafts\
-BetterStrongholds\
-blame\
-blockswap\
-Bookshelf\
-Bountiful\
-bountifulbaubles\
-bwncr\
-byg\
-cavebiomeapi\
-cavesandcliffs\
-cfm\
-Chimes\
-Chisel-MC\
-chocolate\
-citadel\
-cloth-config\
-Clumps\
-cofh_core\
-comforts\
-configured\
-Controlling\
-CookingForBlockheads\
-corail_woodcutter\
-CoroUtil\
-CosmeticArmorReworked\
-CraftingTweaks\
-CraftTweaker\
-create-mc\
-CreateTweaker\
-CTM-MC\
-culturaldelights\
-curios\
-DarkPaintings\
-Ding\
-dynamiclights\
-elevatorid\
-End_s Phantasm\
-engineersdecor\
-enhancedcelestials\
-ensorcellation\
-expandability\
-extcaves\
-fairylights\
-faithfulbackrooms\
-FarmersDelight\
-farmersdelightintegration\
-farmersdelightintegrations\
-FastFurnace\
-FastLeafDecay\
-FastWorkbench\
-ferritecore\
-flywheel\
-foregoing_tweaker\
-ftb-backups\
-ftb-chunks\
-ftb-library\
-ftb-quests\
-ftb-structures\
-ftb-teams\
-Futurepack\
-hexerei\
-HunterIllager\
-idas_forge\
-immersive_aircraft\
-ImmersiveEngineering\
-ImmersivePetroleum\
-industrial-foregoing\
-item-filters\
-Jade\
-jei\
-JEITweaker\
-kotlinforforge\
-kubejs\
-libraryferret\
-LibX\
-looot\
-lootintegrations\
-mahoutsukai\
-Mantle\
-mcjtylib\
-mcw-doors\
-mcw-fences\
-mcw-furniture\
-mcw-trapdoors\
-mcw-windows\
-mdecore\
-Mekanism\
-MekanismGenerators\
-moreoverlays\
-MouseTweaks\
-mysticalworld\
-Nameless Trinkets\
-NaturesCompass\
-nerb\
-No More Advancements\
-norecipeadvancements\
-notenoughcrashes\
-notenoughtardis\
-Nuclearcraft\
-obfuscate\
-obscure_api\
-Patchouli\
-Philips ruins\
-Placebo\
-pneumaticcraft-repressurized\
-polymorph-forge\
-projectvibrantjourneys\
-Quark\\
-recipegui\
-rediscovered\
-refinedstorage\
-repurposed_structures_forge\
-rftoolsbase\
-rftoolsbuilder\
-rftoolsdim\
-rhino-forge\
-savageandravage\
-selene\
-Shrines\
-shutupexperimentalsettings\
-smallships\
-smarterfarmers\
-smoothboot\
-SoL-Carrot\
-sophisticatedbackpacks\
-stoneholm\
-StorageDrawers\
-supplementaries\
-Tardis-Mod\
-TConstruct\
-Timeless and Classics Guns\
-TinkersLevellingAddon\
-titanium\
-tombstone\
-TravelAnchors\
-twilightforest\
-UnifiedResources\
-upgrade_aquatic\
-valhelsia_core\
-valhelsia_structures\
-weeping_angels\
-weirdinggadget\
-Wesley_s Roguelike Dungeons (Version 1.0)\
-whisperwoods\
-WitherSkeletonTweaks\
-workshopsofdoom\
-YungsApi\
-YungsBridges-Forge\
-YungsExtras-Forge\
-zombieawareness\
-Astral\
-Astral Sorcery\
 \
 \
 \
@@ -224,9 +52,40 @@ Release 1.2.5\
 - Tweaks - \
 * Changed the probability of finding FP Tecdungeons in the sky dimension\
 - Mods Added -\
+- \
 Performant\
 - Mods Removed -\
 Roadrunner (glitched with FP research GUI)\
+\
 - Mods Updated -\
 Embeddium\
+\
+Release 1.2.7\
+* Tweaks * \
+- Added recipes for Chunkloaders\
+- Removed Nuclearcraft-related recipes\
+- Imported correct quests (still WIP)\
+- Changed the probability of weeping angels spawning\
+\
+* Mods Removed * \
+- Nuclearcraft (heavily WIP, crashed under several circumstances)\
+- No More Advancements (issues with Twilight Forest progression)\
 
+* Mods Updated *\
+- Macaws Windows\
+- Not Enough Recipe Book\
+- Mahou Tsukai\
+\
+Release 1.3\
+\
+---Removed---\
+NuclearCraft Quests\
+\
+---Added---\
+Custom Menu\
+Custom Splash Text\
+Custom Background\
+\
+---Added Mods--\
+Fancy Menu\
+Konkrete\
